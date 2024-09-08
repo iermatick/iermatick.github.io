@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iermatick.github.io/sitemap.html.gz
+Sitemap: https://iermatick.github.io/app/sitemap.html.gz
+Sitemap: https://iermatick.github.io/assets/sitemap.html.gz
+Sitemap: https://iermatick.github.io/css/sitemap.html.gz
+Sitemap: https://iermatick.github.io/includes/sitemap.html.gz
+Sitemap: https://iermatick.github.io/item/sitemap.html.gz
+Sitemap: https://iermatick.github.io/src/sitemap.html.gz
